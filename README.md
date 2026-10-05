@@ -4,7 +4,7 @@
 <img width="600" height="900" alt="geminism-cover" src="https://github.com/user-attachments/assets/318b02f3-f107-4731-97d6-6ba34850dac5"/>
 
 <h3>"Certamente há uma razão para que, desde os tempos antigos, culturas no mundo inteiro detestem gêmeos como um sinal de má sorte."</h3>
-<p>Nesta página você poderá acompanhar o progresso da tradução da Visual Novel <a href="https://vndb.org/v33272" target="_blank">Geminism</a>, lançada pela CRAFTWORK em 2023.
+<p>Nesta página você poderá acompanhar o progresso da tradução da visual novel <a href="https://vndb.org/v33272" target="_blank">Geminism</a>, lançada pela CRAFTWORK em 2023.
 </p>
 <br/>
 
