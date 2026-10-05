@@ -59,7 +59,7 @@
   <p><b>Kazuki Minoru</b></p>
   <p>Revisão e Quality Check.</p>
 </div>
-<br/>
+<br/><br/>
 
 <h3>Agradecimentos</h3>
 <a href="https://www.craftwork.media/Geminism/" target="_blank">CRAFTWORK</a><br/>
