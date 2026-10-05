@@ -1,5 +1,8 @@
-⚠️ AVISO: Este jogo não é adequado para menores ou pessoas sensíveis.
-<img src="https://img.shields.io/badge/18+-darkred?style=flat&amp;logo=warning&amp;logoColor=white" alt="Conteúdo 18+"/><img src="https://img.shields.io/badge/Body%20Horror-e91e63" alt="Horror Corporal"/><img src="https://img.shields.io/badge/Slice%20of%20Life-87CEEB" alt="Slice of Life"><img width="600" height="900" alt="geminism-cover" src="https://github.com/user-attachments/assets/318b02f3-f107-4731-97d6-6ba34850dac5"/>
+⚠️ AVISO: Este jogo não é adequado para menores ou pessoas sensíveis.<br/>
+<img src="https://img.shields.io/badge/18+-darkred?style=flat&amp;logo=warning&amp;logoColor=white" alt="Conteúdo 18+"/>
+<img src="https://img.shields.io/badge/Body%20Horror-e91e63" alt="Horror Corporal"/>
+<img src="https://img.shields.io/badge/Slice%20of%20Life-87CEEB" alt="Slice of Life">
+<img width="600" height="900" alt="geminism-cover" src="https://github.com/user-attachments/assets/318b02f3-f107-4731-97d6-6ba34850dac5"/>
 
 <h3>"Certamente há uma razão para que, desde os tempos antigos, culturas no mundo inteiro detestem gêmeos como um sinal de má sorte."</h3>
 <p>Nesta página você poderá acompanhar o progresso da tradução da Visual Novel <a href="https://vndb.org/v33272" target="_blank">Geminism</a>, lançada pela CRAFTWORK em 2023.
