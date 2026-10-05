@@ -20,11 +20,11 @@
 <p>A ser anunciado</p>
 <br/>
 
-<img width="1864" height="908" src="https://github.com/user-attachments/assets/1bea6c21-ae87-4870-895e-e28159a6d737" />
-<img width="1864" height="908" src="https://github.com/user-attachments/assets/5374a500-0e46-431a-95b3-6054aa7fe613" />
-<img width="1864" height="908" src="https://github.com/user-attachments/assets/2754567d-9e56-4401-8907-1bebadd5d59e" />
-<img width="1864" height="908" src="https://github.com/user-attachments/assets/b4d2a9f3-43fd-4e9b-af73-7561a29699e6" />
-<img width="1864" height="908" src="https://github.com/user-attachments/assets/5238c532-2784-4cb3-8092-d0b4f16318fa" />
+<img src="https://github.com/user-attachments/assets/1bea6c21-ae87-4870-895e-e28159a6d737" />
+<img src="https://github.com/user-attachments/assets/5374a500-0e46-431a-95b3-6054aa7fe613" />
+<img src="https://github.com/user-attachments/assets/2754567d-9e56-4401-8907-1bebadd5d59e" />
+<img src="https://github.com/user-attachments/assets/b4d2a9f3-43fd-4e9b-af73-7561a29699e6" />
+<img src="https://github.com/user-attachments/assets/5238c532-2784-4cb3-8092-d0b4f16318fa" />
 
 <br/><br/>
 
@@ -65,6 +65,7 @@
 <div style="display:inline-block;vertical-align:top;">
   <img src="https://kikachangames.github.io/moon/kazuki.png" width="160" height="160" style="float:left; margin-right:15px; border-radius:12px; object-fit:cover; border:none;" />
   </div>
+  <div style="display:inline-block;">
   <p><b>Kazuki Minoru</b></p>
   <p>Revisão e Quality Check.</p>
 </div>
