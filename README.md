@@ -65,7 +65,7 @@
 <a href="https://www.craftwork.media/Geminism/" target="_blank">CRAFTWORK</a><br/>
 <a href="https://github.com/K0lb3/UnityPy/" target="_blank">UnityPy</a><br/>
 <a href="https://discord.gg/fWyEeGva9Y/" target="_blank">Visual Novel Android Brasil</a><br/>
-<br/>
+<br/><br/>
 
 <h3>Download do patch</h3>
 <p>Em breve...<p/>
