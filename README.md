@@ -43,21 +43,11 @@
 
 <div>
 <div style="display:inline-block;vertical-align:top;">
-<img src="https://kikachangames.github.io/air/hin.png" width="160">
-</div>
-<div style="display:inline-block;">
-<p><b>Hinrong</b></p>
-<p>Ferramentas e suporte técnico.</p>
-</div>
-<br/>
-
-<div>
-<div style="display:inline-block;vertical-align:top;">
 <img src="https://kikachangames.github.io/higanbana2/0mateus.png" width="160">
 </div>
 <div style="display:inline-block;">
 <p><b>0Mateus</b></p>
-<p>Revisão e controle de qualidade.</p>
+<p>Ferramentas e suporte técnico..</p>
 </div>
 <br/>
 
