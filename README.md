@@ -47,7 +47,7 @@
 </div>
 <div style="display:inline-block;">
 <p><b>0Mateus</b></p>
-<p>Ferramentas e suporte técnico..</p>
+<p>Ferramentas e suporte técnico.</p>
 </div>
 <br/>
 
