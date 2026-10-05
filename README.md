@@ -27,7 +27,7 @@
 <img width="1864" height="908" src="https://github.com/user-attachments/assets/4d1f8c2e-e211-4779-bc5a-da33e03d4936" />
 <img width="1864" height="908" src="https://github.com/user-attachments/assets/b4d2a9f3-43fd-4e9b-af73-7561a29699e6" />
 <img width="1864" height="908" src="https://github.com/user-attachments/assets/5238c532-2784-4cb3-8092-d0b4f16318fa" />
-<img width="1864" height="908" src="https://github.com/user-attachments/assets/2200bec1-9b5a-4ad7-9254-58a8d4fda4c6" />
+
 <br/><br/>
 
 
@@ -74,8 +74,8 @@
 
 <h3>Agradecimentos</h3>
 <a href="https://www.craftwork.media/Geminism/" target="_blank">CRAFTWORK</a><br/>
-<a href="https://github.com/K0lb3/UnityPy/" target="blank">UnityPy</a><br/>
-<a href="https://discord.gg/fWyEeGva9Y/" target="blank">Visual Novel Android Brasil</a><br/>
+<a href="https://github.com/K0lb3/UnityPy/" target="_blank">UnityPy</a><br/>
+<a href="https://discord.gg/fWyEeGva9Y/" target="_blank">Visual Novel Android Brasil</a><br/>
 <br/>
 
 <h3>Download do patch</h3>
