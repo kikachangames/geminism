@@ -13,7 +13,7 @@
 <br/>
 
 <h3>Progresso da tradução</h3>
-<p>[▓░░░░░░░░░] 10%</p>
+<p>[▓▓░░░░░░░░] 15%</p>
 <br/>
 
 <h3>Lançamento</h3>
@@ -72,5 +72,5 @@
 <br/>
   
 <hr>
-<p><small>Última atualização: 04/10/2026.</small></p>
+<p><small>Última atualização: 31/10/2026.</small></p>
 <p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
